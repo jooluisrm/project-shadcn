@@ -29,3 +29,5 @@ export const TeamArea = () => {
         </div>
     )
 }
+
+//Para usar, basta colocar  <TeamArea></TeamArea> na Page
